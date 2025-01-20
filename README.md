@@ -1,4 +1,4 @@
-# Proyek-Machine-Learning-Heart-Disease-Analysis
+# Proyek Machine Learning Heart Disease Analysis
 
 Dokter sering menganalisis kasus terkait suatu penyakit untuk meningkatkan pemahaman mereka tentang pendekatan pengobatan yang optimal bagi pasien mereka yang menderita penyakit tersebut. Ketika seorang pasien menunjukkan riwayat kesehatan atau gejala yang mirip dengan kasus sebelumnya, mereka mungkin mendapat manfaat dari menjalani rejimen pengobatan yang serupa.
 
